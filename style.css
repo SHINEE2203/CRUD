@@ -1,0 +1,24 @@
+.userdata{
+    background-color:white;
+    border-radius:25px;
+    padding:10px;
+    margin:10px;
+    display:flex;
+    align-content:center;
+    width:20em;
+    transition: transform .1s
+  }
+  
+  .userdata:hover{
+     transform: scale(1.1); 
+  }
+  
+  body{
+    background-color:brown
+  }
+  
+  img{
+    border-radius:50px;
+    height:5em;
+    padding:10px;
+  }
